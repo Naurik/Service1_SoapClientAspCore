@@ -1,0 +1,13 @@
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\obj\Debug\Service.SHEP.csproj.AssemblyReference.cache
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\obj\Debug\Service.SHEP.csproj.CoreCompileInputs.cache
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\bin\Debug\Service.SHEP.dll
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\bin\Debug\Service.SHEP.pdb
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\bin\Debug\log4net.dll
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\bin\Debug\System.Web.Services.Description.dll
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\bin\Debug\log4net.xml
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\bin\Debug\System.Web.Services.Description.pdb
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\obj\Debug\Service.SHEP.csproj.CopyComplete
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\obj\Debug\Service.SHEP.dll
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\obj\Debug\Service.SHEP.pdb
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\bin\Debug\Service.Helper.dll
+C:\Users\Назия\source\repos\IntegrationMO_Service\Service.SHEP\bin\Debug\Service.Helper.pdb

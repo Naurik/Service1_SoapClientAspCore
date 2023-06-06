@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Service.DATA.Model.Candidates>
+@{
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Data</h1>
+</div>
+
+<div>
+    <table id="candidatesData">
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>FullName</td>
+                <td>BirthDate</td>
+                <td>Locations</td>
+                <td>EducationInfo</td>
+                <td>SpouseEducationInfo</td>
+                <td>WorkingActivity</td>
+                <td>ResponseDate</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Index in Model)
+            {
+                <tr>
+                    <td>@Index.Id</td>
+                    <td>@Index.FullName</td>
+                    <td>@Index.BirthDate</td>
+                    <td>@Index.Locations</td>
+                    <td>@Index.EducationInfo</td>
+                    <td>@Index.SpouseEducationInfo</td>
+                    <td>@Index.WorkingActivity</td>
+                    <td>@Index.ResponseDate</td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+
+            $("#candidatesData").DataTable();
+        });
+    </script>
+}
+
+

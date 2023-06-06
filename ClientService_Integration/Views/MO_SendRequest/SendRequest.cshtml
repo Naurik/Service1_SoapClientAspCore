@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Send MO";
+}
+
+<h2>Отправка в МО</h2>
+
+@using (Html.BeginForm("SendRequest", "MO_SendRequest", FormMethod.Post))
+{
+    <label>Введите ИИН</label>
+    <input type="text" id="txtName" name="name" />
+    <input type="submit" id="btnSubmit" value="Отправить" />
+}
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("@ViewBag.Message");
+        };
+    </script>
+}

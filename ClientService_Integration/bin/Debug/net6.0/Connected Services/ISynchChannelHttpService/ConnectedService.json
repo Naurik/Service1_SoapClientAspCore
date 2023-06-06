@@ -1,0 +1,18 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "../../../../../../Downloads/wsdl Универсального сервиса ШЭП/wsdl Универсального сервиса ШЭП/SyncChannel/v10/Interfaces/SyncChannelHttp_Service.wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "messageContract": true,
+    "namespaceMappings": [
+      "*, ISynchChannelHttpService"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}
